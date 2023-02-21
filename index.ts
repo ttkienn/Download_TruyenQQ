@@ -1,5 +1,3 @@
-// const prompts = require("prompts");
-// const chalk = require("chalk");
 import prompts from "prompts";
 import chalk from 'chalk';
 import fs from "fs";
