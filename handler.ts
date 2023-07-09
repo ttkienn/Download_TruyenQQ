@@ -1,7 +1,7 @@
 import axios from "axios";
 import fs from "fs/promises";
 
-axios.defaults.baseURL = "https://thieutrungkien.dev/truyenqq";
+axios.defaults.baseURL = "https://trungkien.dev/truyenqq";
 axios.defaults.headers.common["Content-Type"] = "application/json";
 axios.defaults.headers.common["Accept"] = "application/json";
 
